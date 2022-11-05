@@ -6,7 +6,7 @@
 
 Projeto construido no evendo Next Level Week da RocketSeat
 
-[Clique aqui para acessar](https://nlw-rocketseat.netlify.app)
+[Clique aqui para acessar](https://brunorodriguescabral.github.io/nlw-10-copa/)
 
 ## 👨‍💻 Tecnologias
 
