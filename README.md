@@ -1,6 +1,6 @@
 # NLW 10 Copa
 
-![preview](.preview.png)
+![preview](./preview.png)
 
 >Trilha Explorer
 
